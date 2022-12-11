@@ -1,2 +1,2 @@
-# Portofolio-website
+# Portfolio-website
 This is my first project.
